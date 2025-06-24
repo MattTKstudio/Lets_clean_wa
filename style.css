@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600&display=swap');
 
 :root {
-  --yellow: #ffd100;
+  --yellow: #f9c80e;
   --green: #1c3a2d;
-  --blue: #1f4d7a;
-  --off-white: #fcfcf7;
+  --blue: #1f6feb;
+  --off-white: #ecece7;
   --gray: #444;
 }
 
@@ -103,13 +103,13 @@ h2 {
 }
 
 .gallery img {
-  width: 100%;
+  width: 75%;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .donate {
-  background-color: var(--yellow);
+  background-color: var(--blue);
   text-align: center;
   padding: 2.5rem 1rem;
 }
